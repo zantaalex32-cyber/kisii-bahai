@@ -1,0 +1,6 @@
+{
+  "name": "Kisii Cluster Portal",
+  "description": "Authorized and secure central platform for Kisii Cluster members and administrators to access approved activities, calendar, groups, documents, announcements, and AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
